@@ -1,8 +1,10 @@
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXFpeTZwaTVidm93NHA2ZXFhbGhyZWF5NHl3djlkaGliZWFoanZmcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sRFEa8lbeC7zbcIZZR/giphy.gif" alt="GitHub Banner" width="100%" />
-
-
-
 # 𝙷𝚒 𝚝𝚑𝚎𝚛𝚎, 𝙸'𝚖 𝚜𝚝𝚢𝚡𝚐𝚣𝚒 👋
+
+---
+
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjNqYnJ6MXF2bWg2eDJjMnJpOGpwbGVmODNjbGFienc4YWI5djMzaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/slCPm1obXGtDDYbQ0X/giphy.gif" width="100%" />
+</p>
 
 ---
 
