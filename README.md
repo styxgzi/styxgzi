@@ -3,7 +3,7 @@
 ---
 
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHljb3BuejIwd25uZWd0cDg0YmZhY2tncnM3cm45dHN0MzdjZXBtayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MQTF1uW0GTZoVsseXx/giphy.gif" width="100%" />
+  <img src="https://media.licdn.com/dms/image/v2/D5616AQFETwEbnA-DJA/profile-displaybackgroundimage-shrink_350_1400/B56Zha3O69HUAY-/0/1753871086784?e=1756944000&v=beta&t=KXhtfBJR3iQ8TCmGxaS4LaclZXj5TFmPBPorUlY5fYw" width="100%" />
 </p>
 
 ---
