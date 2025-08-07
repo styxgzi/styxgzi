@@ -3,7 +3,7 @@
 ---
 
 <p align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAequ5bA4VIRVJoI4P8ULD9TdMEinIlxxE0YPntdso0eWDM40yZ2s1ED3F2BGpAb1sG6I&usqp=CAU" width="100%" />
+  <img src="https://www.shutterstock.com/image-vector/flork-character-programmer-profession-600nw-2348734689.jpg" width="100%" />
 </p>
 
 ---
